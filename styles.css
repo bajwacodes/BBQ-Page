@@ -82,10 +82,12 @@ LAYOUT FOR INTRO CARD
 
 .top-text{
     margin: 0 auto;
-    border-top: #F18119 5px solid;
+    border-top: 5px solid transparent;
     border-image: linear-gradient(to left, #ff713b, #ffa51d) 1;
+    border-image-slice: 1;
     padding-top: .6em;
     font-weight: 900;
+    display: inline-block;
 }
 
 /* ===================
