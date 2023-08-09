@@ -70,7 +70,7 @@ LAYOUT FOR INTRO CARD
 ====================== */
 
 .intro{
-    background-image: url(images/dark-ribs.jpg);
+    background-image: url(dark-ribs.jpg);
     background-position: center;
     background-size: cover;
     min-height: 50vh;
