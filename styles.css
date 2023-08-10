@@ -135,6 +135,10 @@ input:focus{
     transform: scale(1.1);
 }
 
+.main-content > *{
+    margin-bottom: 1em;
+}
+
 
 /* ===================
 MEDIA QUERIES START
